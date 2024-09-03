@@ -5,10 +5,10 @@ Podemos ver las funciones como "maquinas" encargadas de recibir una "materia pri
 En programación debemos de seguir unos principios básicos para escribir buen codigo, y entre esos tenemos el principio "DRY" (don't repeat yourself) el cual nos invita a reutilizar codigo🔄, en vez de escribirlo muchas veces. Es allí donde las funciones cobran vital importancia, ya que nos permiten encapsular codigo que puede, o no, recibir parametros, que haran las veces de materias primas en las maquinas, luego ejecutaran el codigo encapsulado en la función y retornaran, o no, algun resultado. Hago enfasis en que pueden o no retornar como recibir cosas ya que la principal caracteristica de las funciones es tener el codigo encapsulado.
 
 
-''' def function_name (parameters):
+´´´ def function_name (parameters):
       do somenthing with the parameters
       optional return
-      '''
+      ´´´
 Las funciones tienen varias partes, las cuales describiremos a continuación:
   en python utilizamos la palabra reservada def, para definir la función
 
